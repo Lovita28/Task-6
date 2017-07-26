@@ -1,0 +1,6 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas Akhir 6 - Download\Tugas Akhir 6 - Download\bin\Debug\Tugas Akhir 6 - Download.exe.config
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Tugas Akhir 6 - Download\Tugas Akhir 6 - Download\bin\Debug\Tugas Akhir 6 - Download.exe
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Tugas Akhir 6 - Download\Tugas Akhir 6 - Download\bin\Debug\Tugas Akhir 6 - Download.pdb
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Tugas Akhir 6 - Download\Tugas Akhir 6 - Download\obj\Debug\Tugas Akhir 6 - Download.csprojResolveAssemblyReference.cache
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Tugas Akhir 6 - Download\Tugas Akhir 6 - Download\obj\Debug\Tugas Akhir 6 - Download.exe
+C:\Users\Lovita\Documents\Visual Studio 2015\Projects\Tugas Akhir 6 - Download\Tugas Akhir 6 - Download\obj\Debug\Tugas Akhir 6 - Download.pdb
